@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Senan Sager
 - 👀 I’m interested in Cybersecurity and AI
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently studying Cybersecurity
 - 💞️ I’m looking to collaborate on scripts and other projects
 - 📫 How to reach me @senansager
 
